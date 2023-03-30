@@ -1,3 +1,4 @@
 # player 2 code
 
-print('hello gleb')
+def __init__():
+    pass
